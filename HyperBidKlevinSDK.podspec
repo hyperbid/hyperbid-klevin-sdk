@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'HyperBidKlevinSDK'
-    s.version          = '2.1.0'
+    s.version          = '2.4.1'
     s.summary          = 'HyperBidKlevinSDK'
 
     s.description      = <<-DESC
